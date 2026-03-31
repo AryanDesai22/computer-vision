@@ -161,7 +161,7 @@ java -jar target/realtime-style-transfer-1.0.0-jar-with-dependencies.jar
 
 ## 👤 Author
 
-Aana Jain — VIT CBtech Cse-AIML) 
+Aryan Desai — VIT CBtech Cse-AIML) 
 Submitted for the VITyarthi Computer Vision Project  
 
 ---
